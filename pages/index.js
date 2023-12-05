@@ -5,6 +5,7 @@ import Instagram from '../components/Instagram';
 import Slider from '../components/Slider';
 import { SliderData } from '../components/SliderData';
 import Contact from '../components/Contact';
+import Footer from '../components/Footer';
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
       />
       <Slider slides={SliderData} />
       <Instagram />
+      <Footer />
     </div>
   );
 }

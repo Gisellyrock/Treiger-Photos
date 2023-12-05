@@ -15,3 +15,13 @@ const Hero = ({ heading, message }) => {
 };
 
 export default Hero;
+export const contact = () => {
+  return (
+    <div>
+      <Hero
+        heading="Contato"
+        message="Mande um zap agora mesmo, e faça seu orçamento."
+      />
+    </div>
+  );
+};
