@@ -22,7 +22,7 @@ const Instagram = () => {
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-2 p-4">
         <InstagramImg
           socialImg={IgImg1}
-          instagramLink="https://www.instagram.com/p/C0KepR3vd4tij6XWcTvSS6ekDWk4Muf-xYypSM0/"
+          instagramLink="https://www.instagram.com/p/ChNRXP2OA96/?img_index=1"
         />
 
         <InstagramImg socialImg={IgImg2} />

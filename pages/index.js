@@ -23,7 +23,6 @@ export default function Home() {
       />
       <Slider slides={SliderData} />
       <Instagram />
-      <Contact />
     </div>
   );
 }
